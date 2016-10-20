@@ -8,7 +8,7 @@
 <li> Lavorate regolarmente, avvertendo il resto del gruppo in caso non si riesca a completare il proprio compito
 </ul>
 
-<font color=#ff0000>NB:</font> Per editare il READ ME, va utilizzato l'HTML, b=grassetto, i=corsivo, u=sottolineato, br=a capo, hr=linea di separazione ul=apertura e chiusura di un elenco, li=punto di un elenco
+<b><u>NB:</u></b> Per editare il READ ME, va utilizzato l'HTML, b=grassetto, i=corsivo, u=sottolineato, br=a capo, hr=linea di separazione ul=apertura e chiusura di un elenco, li=punto di un elenco
 <br/><br/>
 ~ ~ ~
 <br/><br/>
