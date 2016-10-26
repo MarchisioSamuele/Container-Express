@@ -15,5 +15,7 @@
 20.10.16 - 20.45 <br/>
 Reupload del database dei prodotti e del rispettivo progetto (SQLite Browser IDE) <br/>
 Suddivisione in cartelle del git per una maggiore chiarezza <br/>
+Aggiunta file relativi all'algoritmo knapsack <br/>
 <hr/>
 
+20.10.16 - 20.45 <br/>
